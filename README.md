@@ -108,9 +108,9 @@ For personal and educational use only. Do not copy or reuse the model for commer
 
 Author
 
-Developer: Your Name  
-Email: your@email.com  
-GitHub: https://github.com/yourusername  
+Developer: Warda Ashfaq
+Email: fa22-bse-048@students.cuisahiwal.edu.pk
+GitHub: https://github.com/WardaAshfaq048  
 
 Disclaimer
 
