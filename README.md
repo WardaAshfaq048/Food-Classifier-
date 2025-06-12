@@ -79,7 +79,7 @@ How to Run
 1. Clone the repository:
 
 git clone https://github.com/WardaAshfaq048/food-classifier.git  
-cd food-classifier  
+cd project2  
 
 2. Install dependencies:
 
