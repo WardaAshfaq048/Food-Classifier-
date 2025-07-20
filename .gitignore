@@ -1,0 +1,38 @@
+# 🐍 Python cache & bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ⚙️ Virtual environments / dependencies
+venv/
+env/
+ENV/
+Lib/
+Scripts/
+pyvenv.cfg
+*.dist-info/
+*.whl
+
+# 🧪 Jupyter Notebook stuff
+.ipynb_checkpoints/
+.yarn/
+node_modules/
+yoloven/share/
+
+# 📂 OS files
+.DS_Store
+Thumbs.db
+
+# 🔒 Secrets and environment
+.env
+*.log
+
+# 🧠 Model/Data Files
+*.h5
+*.json
+*.mp3
+*.png
